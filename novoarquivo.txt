@@ -1,1 +1,3 @@
 Novo Arquivo
+
+Inserindo conteúdo a ser visualizado antes de ser feito o commit.
